@@ -25,7 +25,24 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdln0411/mdln0411/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdln0411/mdln0411/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mdln0411/mdln0411/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mdln0411/mdln0411/outputname: Generate pacman animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: mdln0411
+          outputs: |
+            output/pacman-contribution-graph.svg
+            output/pacman-contribution-graph-dark.svg/pacman-contribution-graph.svg">
 </picture>
 
 ###
