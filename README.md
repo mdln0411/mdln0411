@@ -33,3 +33,17 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/mdln0411/mdln0411/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Rainekin">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Rainekin&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
