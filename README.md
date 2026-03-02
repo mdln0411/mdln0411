@@ -2,7 +2,14 @@
 ![Banner](img/github-banner.png)
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi+I'm+Medeleine+👋;Full+Stack+Developer;AI+Enthusiast;Welcome+to+my+GitHub!" />
+  
+</p>
+
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 ## 💻 Technologies
@@ -11,7 +18,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,php,laravel,java,mysql,git,linux,figma&perline=6" />
 </p>
 
-## 🌟 About Me
+## 🌟 About Me 
+
 
 <div align="left">
 
@@ -23,7 +31,9 @@ Building intelligent web experiences with Full Stack development and AI
 - 🤖 Use AI to boost productivity & problem solving
 
 📚 Always exploring new technologies to work smarter.
+
 </div>
+
 
 ## 📊 GitHub Stats
 
@@ -40,7 +50,11 @@ Building intelligent web experiences with Full Stack development and AI
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xw3afn32z2u5nx5tj3wugiusrm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+
+    
   </a>
+
+  
 </p>
 
 ###
@@ -50,10 +64,21 @@ Building intelligent web experiences with Full Stack development and AI
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mdln0411/mdln0411/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/thinkaboutmed"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://linkedin.com/in/USERNAME"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:aidnzngr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdln0411&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+</a> 
       
-      
+    
+  
