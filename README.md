@@ -37,6 +37,12 @@ Building intelligent web experiences with Full Stack development and AI
   <img src="https://streak-stats.demolab.com?user=mdln0411&theme=radical"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xw3afn32z2u5nx5tj3wugiusrm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
+
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdln0411/mdln0411/output/pacman-contribution-graph-dark.svg">
